@@ -272,4 +272,4 @@ f = x[(x <= midd*3) & (x >= midd/3)]
 print(x, midd, f)
 
 
-# Numpy используется в Pandas, Scipy, Scikit-Learn. На смену Numpy с тензорами пришли PyTorch, Jax, TensorFlow
+# NumPy используется в Pandas, Scipy, Scikit-Learn. На смену NumPy с тензорами пришли PyTorch, Jax, TensorFlow
